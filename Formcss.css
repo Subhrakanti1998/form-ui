@@ -1,0 +1,88 @@
+body{
+    display: flex;
+    background-color: rgb(101, 181, 218);
+    height: 100vh;
+    justify-content: center;
+    align-items:center;
+}
+.contener{
+    display: flex;
+    background-color: white;
+    
+    width: 819px;
+    height: 500px;
+    border-radius: 5px;
+}
+ img{
+   width: 50%;
+   /* padding-top: 5px; */
+   border-radius: 5px;
+} 
+
+
+ /* .title{
+    padding-left: 20px;
+} */
+.alldetails{
+    margin: 25px;
+    float:right ;
+    margin-top: 90px;
+    width: 65%;
+    display: flex;
+    align-items: center;
+    padding-left: 35px;
+    
+    height: 300px;
+    padding-top: 20px;
+    /* display: flex; 
+    flex-wrap: wrap;
+     justify-content: center; 
+     align-items:center; */
+
+    /* justify-content: space-around; */
+    /* padding-top: 10px; */
+
+}
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+#button{
+    
+    background-color: rgb(169, 226, 147);
+    border-radius: 3px;
+    color: white;
+    border-color: rgb(169, 226, 147);
+    
+    
+}
+/* #sign{
+    padding-top: 30px;
+    padding-left: 200px;
+} */
+.details{
+    width: 200px;
+
+}
+#sign{
+    padding-left: 159px;
+    padding-top: 10px;
+}
+
+/*
+input{
+    
+    height: 20px;
+    width: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.details{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    
+    
+}*/
